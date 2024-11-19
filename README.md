@@ -1,2 +1,2 @@
 # colatz_visual
-This is some code to visulise the colatz conjecture
+This is some code to visulise the colatz conjecture using plotly
